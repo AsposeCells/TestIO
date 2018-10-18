@@ -1,7 +1,7 @@
 <div align="right">
-            <a href="/">Blog</a> &nbsp;
-            <a href="/about">About</a>
-            <hr>
+<a href="/">Blog</a> &nbsp;
+<a href="/about">About</a>
+<hr>
 </div>
 
 # Apply Cell Borders on Excel Worksheet Cells in C++
@@ -44,3 +44,4 @@ By changing line styles, you can create custom borders. Some of these line style
 
 ![Border Line Styles in Microsoft Excel represented by CellBorderType in Aspose.Cells API.](https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Apply%20Cell%20Borders%20on%20Excel%20Worksheet%20Cells/Border-Line-Styles-Microsoft-Excel-Border-Aspose.Cells.png "Border Line Styles in Microsoft Excel represented by CellBorderType in Aspose.Cells API.")
 
+<figcaption>Border Line Styles in Microsoft Excel represented by CellBorderType in Aspose.Cells API.</figcaption>
