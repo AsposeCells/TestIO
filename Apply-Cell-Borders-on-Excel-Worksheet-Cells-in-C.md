@@ -44,4 +44,14 @@ By changing line styles, you can create custom borders. Some of these line style
 
 ![Border Line Styles in Microsoft Excel represented by CellBorderType in Aspose.Cells API.](https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Apply%20Cell%20Borders%20on%20Excel%20Worksheet%20Cells/Border-Line-Styles-Microsoft-Excel-Border-Aspose.Cells.png "Border Line Styles in Microsoft Excel represented by CellBorderType in Aspose.Cells API.")
 
-<figcaption>Border Line Styles in Microsoft Excel represented by CellBorderType in Aspose.Cells API.</figcaption>
+# Set Border of the Cell using Aspose.Cells API
+
+All of the border types can be accessed using the BorderType enumeration. Its values are as follows
+
+* Aspose::Cells::BorderType_TopBorder
+* Aspose::Cells::BorderType_BottomBorder
+* Aspose::Cells::BorderType_LeftBorder
+* Aspose::Cells::BorderType_RightBorder
+* Aspose::Cells::BorderType_DiagonalUp
+* Aspose::Cells::BorderType_DiagonalDown
+
