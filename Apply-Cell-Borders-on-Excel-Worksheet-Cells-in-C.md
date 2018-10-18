@@ -1,6 +1,7 @@
 <div align="right">
             <a href="/">Blog</a> &nbsp;
             <a href="/about">About</a>
+            <hr>
 </div>
 
 # Apply Cell Borders on Excel Worksheet Cells in C++
