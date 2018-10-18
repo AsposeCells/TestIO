@@ -57,7 +57,7 @@ All of the border types can be accessed using the BorderType enumeration. Its va
 
 The following code accesses the top border of the cell and sets its line style and color. Similarly, you can work with any border using the BorderType enumeration.
 
-```csharp
+```javascript
 // Set Top Border of Cell.
 // --------------------------
 
