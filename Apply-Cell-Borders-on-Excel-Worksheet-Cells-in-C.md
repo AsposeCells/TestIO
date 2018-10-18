@@ -8,7 +8,7 @@ The purpose of this article is to explain how developers can apply cell borders 
 
 ## Supported Platforms
 
->Aspose.Cells API supports various platforms including C++, Java, .NET, Android, JavaScript, PHP etc. Besides, [Aspose.Cells is available in Cloud as RESTful APIs](https://products.aspose.cloud/cells).
+Aspose.Cells API supports various platforms including C++, Java, .NET, Android, JavaScript, PHP etc. Besides, [Aspose.Cells is available in Cloud as RESTful APIs](https://products.aspose.cloud/cells).
 
 # Types of Built-in Borders
 
