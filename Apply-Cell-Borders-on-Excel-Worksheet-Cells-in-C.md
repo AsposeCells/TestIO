@@ -1,9 +1,5 @@
-<center>  
-[Main Page](https://asposecells.github.io/TestIO/)
-</center>
-
 <div align="center">
-  This is some text!
+[Main Page](https://asposecells.github.io/TestIO/)
 </div>
 
 # Apply Cell Borders on Excel Worksheet Cells in C++
