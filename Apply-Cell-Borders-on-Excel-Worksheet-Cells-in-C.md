@@ -4,9 +4,10 @@ Microsoft Excel offers various types of built-in borders that can be applied to 
 
 ## Article Description
 
->The purpose of this article is to explain how developers can apply cell borders on Excel worksheet cells in C++.
+The purpose of this article is to explain how developers can apply cell borders on Excel worksheet cells in C++.
 
 ## Supported Platforms
+
 >Aspose.Cells API supports various platforms including C++, Java, .NET, Android, JavaScript, PHP etc. Besides, [Aspose.Cells is available in Cloud as RESTful APIs](https://products.aspose.cloud/cells).
 
 # Types of Built-in Borders
