@@ -55,3 +55,27 @@ All of the border types can be accessed using the BorderType enumeration. Its va
 * Aspose::Cells::BorderType_DiagonalUp
 * Aspose::Cells::BorderType_DiagonalDown
 
+The following code accesses the top border of the cell and sets its line style and color. Similarly, you can work with any border using the BorderType enumeration.
+
+```csharp
+// Set Top Border of Cell.
+// --------------------------
+
+// Access cell object.
+intrusive_ptr<Aspose::Cells::ICell> cell = ws->GetICells()->GetObjectByIndex(new String("B3"));
+
+// Access cell style.
+intrusive_ptr<Aspose::Cells::IStyle> style = cell->GetIStyle();
+
+// Access top border.
+intrusive_ptr<Aspose::Cells::IBorder> topBorder = style->GetIBorders()->GetObjectByIndex(Aspose::Cells::BorderType_TopBorder);
+
+// Set the line style of the top border.
+topBorder->SetLineStyle(Aspose::Cells::CellBorderType_Thick);
+
+// Set the color of the top border.
+topBorder->SetColor(Aspose::Cells::System::Drawing::Color::GetRed());
+
+// Set the cell style.
+cell->SetIStyle(style);
+```
