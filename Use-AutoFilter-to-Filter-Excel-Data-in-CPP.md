@@ -10,5 +10,5 @@ You can use [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) to app
 
 **Supported Platforms**
 
-[Aspose.Cells](https://products.aspose.com/cells/) API supports number of platform e.g. C++, .NET, Java, Android, JavaScript, PHP etc. Besides, [Aspose.Cells is available in Cloud as RESTful APIs](https://products.aspose.cloud/cells).
+>[Aspose.Cells](https://products.aspose.com/cells/) API supports number of platform e.g. C++, .NET, Java, Android, JavaScript, PHP etc. Besides, [Aspose.Cells is available in Cloud as RESTful APIs](https://products.aspose.cloud/cells).
 
