@@ -44,7 +44,7 @@ The following sample code applies AutoFilter on Microsoft Excel data by performi
 * Refresh the auto filter.
 * Save the workbook in XLSX format. You can also save it in other formats e.g. XLS, XLSB, XLSM etc.
 
-{% gist https://gist.github.com/AsposeCells/986c9146b50504cc7321bd4c1324ece6 %}
+{% gist 986c9146b50504cc7321bd4c1324ece6 %}
 
 # Output Microsoft Excel Document by Aspose.Cells after applying AutoFilter
 
