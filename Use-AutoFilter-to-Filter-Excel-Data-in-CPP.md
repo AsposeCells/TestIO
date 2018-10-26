@@ -44,7 +44,13 @@ The following sample code applies AutoFilter on Microsoft Excel data by performi
 * Refresh the auto filter.
 * Save the workbook in XLSX format. You can also save it in other formats e.g. XLS, XLSB, XLSM etc.
 
-{% gist 986c9146b50504cc7321bd4c1324ece6 %}
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
 # Output Microsoft Excel Document by Aspose.Cells after applying AutoFilter
 
