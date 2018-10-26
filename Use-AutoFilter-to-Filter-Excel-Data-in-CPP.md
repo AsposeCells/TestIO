@@ -14,8 +14,6 @@ You can use [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) to app
 
 # Filter Data using AutoFilter in Microsoft Excel
 
-# Filter Data using AutoFilter in Microsoft Excel
-
 Please do the following steps to filter data using AutoFilter in Microsoft Excel.
 
 * Select the columns and click _Data > Filter_ button inside the _Sort & Filter_ section.
